@@ -1,4 +1,4 @@
-Text-Processor
+echo
 ==============
 
 Simple text processor written in C++ using the decorator design pattern.
